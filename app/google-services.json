@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811243337021",
+    "firebase_url": "https://homero-chino-clicker-default-rtdb.firebaseio.com",
+    "project_id": "homero-chino-clicker",
+    "storage_bucket": "homero-chino-clicker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811243337021:android:f4ff271cd16fc3ea8e0154",
+        "android_client_info": {
+          "package_name": "com.example.homerclicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811243337021-gtsnp24ru9joeeael00g2jncqq730r5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homerclicker",
+            "certificate_hash": "864f4c00358110a98275982030f3191119d4ad25"
+          }
+        },
+        {
+          "client_id": "811243337021-ehpbi6m03r806l2emnhngvr4eniao8mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUImuJEvsZEMdDLMLVMDf95tQ3pNIomPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811243337021-ehpbi6m03r806l2emnhngvr4eniao8mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
