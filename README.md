@@ -43,19 +43,6 @@ Para correr el proyecto en tu propio entorno y conectar tu base de datos:
 
 ---
 
-## 🏃 Cómo Ejecutar el Proyecto
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/talxcual/homero-clicker.git
-   ```
-2. Abre el proyecto en **Android Studio**.
-3. Deja que Gradle sincronice las dependencias del proyecto.
-4. Conecta un dispositivo físico o inicia un emulador Android (con API 24 o superior).
-5. Haz clic en **Run** (`Shift + F10`) en Android Studio.
-
----
-
 ## 📄 Licencia
 
 Este proyecto está disponible bajo fines recreativos y educativos. Los recursos y marcas de Los Simpson pertenecen a sus respectivos creadores.
